@@ -19,7 +19,7 @@ City5 State5 5.0 5.0
 
 ```
 
-The input file I used to test [(allindiana.txt)](https://github.iu.edu/C343-Fall2019/C343strimm/blob/9bf6f91ecaff3a3f24a7da190bfee33fda695463/Project/allindiana.txt) is available in this repository.
+The input file I used to test [(allindiana.txt)](https://github.com/shauntrimm/KD-Tree-and-PR-Quadtree/blob/master/Project/allindiana.txt) is available in this repository.
 
 ## The Differences between the KD Tree data structure and the PR Quadtree data structure.
 The KDTree and PR Quadtree differ signifigantly, despite both being tree based.
